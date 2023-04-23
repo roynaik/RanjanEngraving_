@@ -95,7 +95,7 @@ Table of Contents
 	}
 
 	.featured-works a:nth-of-type(1) .item .item-title {
-		right: -100px;
+		right: -450px;
 	}
 
 	.featured-works a:nth-of-type(2) .item,
@@ -105,7 +105,7 @@ Table of Contents
 	}
 
 	.featured-works a:nth-of-type(2) .item .item-title {
-		left: -143px;
+		left: -500px;
 	}
 
 	.featured-works a:nth-of-type(3) .item-img {
@@ -122,11 +122,11 @@ Table of Contents
 	}
 
 	.featured-works a:nth-of-type(4) .item .item-title {
-		left: -135px;
+		left: -270px;
 	}
 
 	.featured-works a:nth-of-type(5) .item .item-title {
-		right: -212px;
+		right: -550px;
 	}
 }
 
