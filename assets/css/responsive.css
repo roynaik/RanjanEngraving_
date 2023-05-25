@@ -78,6 +78,7 @@ Table of Contents
 		letter-spacing: .3px;
 		position: absolute;
 		top: 50%;
+		left: 104%;
 		transform: translateY(-50%);
 	}
 
